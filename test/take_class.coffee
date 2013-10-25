@@ -1,5 +1,5 @@
 require "../main"
 
-describe "$.takeClass", ->
+describe "jQuery#takeClass", ->
   it "should exist", ->
     assert $.fn.takeClass
